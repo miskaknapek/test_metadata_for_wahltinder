@@ -1,14 +1,14 @@
 [introtext] Was is dass?
 [jatext] Diese hast ja gestimmt. 
 [neintext] Diese hast ja gestimmt. 
-[imageurl] tempdata/temp_screenshot.png
+[imageurl] https://raw.githubusercontent.com/miskaknapek/test_metadata_for_wahltinder/master/temp_screenshot.png
 
 [introtext] Was is dass - TEIL ZWEI!?
 [jatext] Diese hast ja gestimmt 2. 
 [neintext] Diese hast ja gestimmt 2. 
-[imageurl] tempdata/temp_screenshot2.png
+[imageurl] https://raw.githubusercontent.com/miskaknapek/test_metadata_for_wahltinder/master/temp_screenshot2.png
 
 [introtext] Was is dass - DREI TEIL?
 [jatext] Diese hast ja gestimmt 3. 
 [neintext] Diese hast ja gestimmt 3. 
-[imageurl] tempdata/temp_screenshot3.png
+[imageurl] https://raw.githubusercontent.com/miskaknapek/test_metadata_for_wahltinder/master/temp_screenshot3.png
