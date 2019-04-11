@@ -1,7 +1,7 @@
 [page_title] = Staftname Wahltinder
 [header_text] Stadtname Wahltinder
 [header_sub_text] - wähle gerne dich selbst und vergleiche
-[texts__initial_instructional_text] - BITTE BITE STREICHEN NACH RECHTS FÜR JA, UND NACH LINKS FÜR NO. <BR/> SEHEN SIE, WAS DIE PARTEIEN GEWÄHLT HABEN.
+[texts__initial_instructional_text] - Streichen nach rechts für JA, und nach links für NEIN. <br/> Sehen Sie, was die Parteien gewählt haben.
 
 [introtext] Was is das?
 [jatext] Diese hast ja gestimmt. 
