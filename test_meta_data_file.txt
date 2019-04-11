@@ -1,3 +1,8 @@
+[page_title] = Staftname Wahltinder
+[header_text] Stadtname Wahltinder
+[header_sub_text] - wähle gerne dich selbst und vergleiche
+[texts__initial_instructional_text] - BITTE BITE STREICHEN NACH RECHTS FÜR JA, UND NACH LINKS FÜR NO. <BR/> SEHEN SIE, WAS DIE PARTEIEN GEWÄHLT HABEN.
+
 [introtext] Was is das?
 [jatext] Diese hast ja gestimmt. 
 [neintext] Diese hast ja gestimmt. 
