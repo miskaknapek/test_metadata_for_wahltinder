@@ -1,4 +1,4 @@
-[page_title] = Staftname Wahltinder
+[page_title] Staftname Wahltinder
 [header_text] Stadtname Wahltinder
 [header_sub_text] - wähle gerne dich selbst und vergleiche
 [texts__initial_instructional_text] - Streichen nach rechts für JA, und nach links für NEIN. <br/> Sehen Sie, was die Parteien gewählt haben.
